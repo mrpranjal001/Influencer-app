@@ -1,9 +1,10 @@
 # Influencer market place 
 
 ## Getting Started
+
 This is for creators, influencers, and athletes effortlessly manage partnerships and payments.
 
-Creator Features:
+# Creator Features:
 
 ● Digital media kit
 ● Messenger
@@ -11,7 +12,7 @@ Creator Features:
 ● Automatic performance reporting
 ● Wallet with instant payment
 
-Brand Features:
+# Brand Features:
 
 ● Safe, secure payments
 ● Automatic payment or refund
