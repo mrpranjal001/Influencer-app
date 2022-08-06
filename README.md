@@ -18,5 +18,5 @@ This is for creators, influencers, and athletes effortlessly manage partnerships
 ● Automatic payment or refund
 ● Direct creator communication
 ● Real-time post performance
-● No creator 1099s necessary
+● No creator 1099s necessary. 
 
