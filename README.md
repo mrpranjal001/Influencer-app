@@ -1,6 +1,6 @@
 # Influencer market place 
 
-## Getting Started
+# Getting Started
 
 This is for creators, influencers, and athletes effortlessly manage partnerships and payments.
 
