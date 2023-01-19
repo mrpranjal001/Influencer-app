@@ -1,8 +1,8 @@
 # Influencer market place app
 
-# Getting Started
+# Getting Started. 
 
-This is for creators, influencers, and athletes effortlessly manage partnerships and payments.
+This is for creators, influencers, and athletes effortlessly manage partnerships & payments.
 
 # Creator Features:
 
@@ -12,7 +12,7 @@ This is for creators, influencers, and athletes effortlessly manage partnerships
 ● Automatic performance reporting
 ● Wallet with instant payment
 
-# Brand Features:
+# Brand Features as follows:
 
 ● Safe, secure payments
 ● Automatic payment or refund
