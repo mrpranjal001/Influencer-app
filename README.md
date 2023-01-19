@@ -1,4 +1,4 @@
-# Influencer market place 
+# Influencer market place app
 
 # Getting Started
 
